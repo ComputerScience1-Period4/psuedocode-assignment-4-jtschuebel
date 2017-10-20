@@ -1,5 +1,5 @@
 Give each player 5 cards
-you check your 5 cards for mathcing cards, if four of a kind put the four cards down
+If your cards have 4 of a kind, place them down.
 if no matching cards ask a specific player who you thinks has a card that matches your card
 if the other player has the card, you give the number of cards you have that matches the description to the player for what he asked for
 if the other player doesnt have the card, they tell the person asking to go fish
